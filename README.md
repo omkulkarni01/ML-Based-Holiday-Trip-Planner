@@ -37,3 +37,6 @@
        * [Seattle_hotels.csv](https://github.com/omkulkarni01/ML-Based-Holiday-Trip-Planner-Algorithms/blob/main/Datasets/Seattle_Hotels.csv)
        * [Test_set.xlsx](https://github.com/omkulkarni01/ML-Based-Holiday-Trip-Planner-Algorithms/blob/main/Datasets/Test_set.xlsx)
 </details>
+
+- ## Few output graphs:
+  [Airline vs Price](https://github.com/omkulkarni01/ML-Based-Holiday-Trip-Planner-Algorithms/blob/main/images/Airline%20vs%20price.png)
