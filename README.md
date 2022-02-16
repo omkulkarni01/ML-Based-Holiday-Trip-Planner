@@ -8,6 +8,7 @@
    - To predict best hotels with prices based on the previous available data
    - To select suitable Ml models for the above predictions
    - To provide the best and suitable trip plan based on the previous plans selected by the customers/users.
+ 
 - ## Steps to run
    - Installation of required libraries
    ```
@@ -26,7 +27,13 @@
    ```
    $ git clone https://github.com/omkulkarni01/ML-Based-Holiday-Trip-Planner-Algorithms.git
    ```
-   - 
-  <details><summary>datasets</summary>
-  </details>
-
+   <details>
+  <summary>
+    <b>Click to get datasets!</b>
+  </summary>
+  
+  - ## Datasets
+       * [Data_Train.xlsx](https://github.com/omkulkarni01/ML-Based-Holiday-Trip-Planner-Algorithms/blob/main/Datasets/Data_Train.xlsx)
+       * [Seattle_hotels.csv](https://github.com/omkulkarni01/ML-Based-Holiday-Trip-Planner-Algorithms/blob/main/Datasets/Seattle_Hotels.csv)
+       * [Test_set.xlsx](https://github.com/omkulkarni01/ML-Based-Holiday-Trip-Planner-Algorithms/blob/main/Datasets/Test_set.xlsx)
+</details>
