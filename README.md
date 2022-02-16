@@ -39,4 +39,9 @@
 </details>
 
 - ## Few output graphs:
-  [Airline vs Price](https://github.com/omkulkarni01/ML-Based-Holiday-Trip-Planner-Algorithms/blob/main/images/Airline%20vs%20price.png)
+  - <img align="left" width="400" height="220" name="Airline vs Price" src=https://github.com/omkulkarni01/ML-Based-Holiday-Trip-Planner-Algorithms/blob/main/images/Airline%20vs%20price.png><img align="center" width="400" height="220" name="ExtraTreesRegressor" src=https://github.com/omkulkarni01/ML-Based-Holiday-Trip-Planner-Algorithms/blob/main/images/ExtraTreesRegressor.PNG>
+  - <img align="left" width="400" height="220" name="RF" src=https://github.com/omkulkarni01/ML-Based-Holiday-Trip-Planner-Algorithms/blob/main/images/Random%20Forest.PNG><img align="center" width="400" height="220" name="RF" src=https://github.com/omkulkarni01/ML-Based-Holiday-Trip-Planner-Algorithms/blob/main/images/Random%20Forest%20y_predict%20vs%20y_test.PNG>
+  
+- ## Resources:
+  <img align="left" width="100" height="100" src=http://www.endtoend.ai/assets/blog/tutorial/kaggle-dataset-ubuntu/kaggle.png><img align="center" width="100" height="100" src=https://yolabs.in/wp-content/uploads/2020/09/82b23a37bc438fc8808e1f707e0a0bc5.png><img align="center" width="100" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png">
+  
